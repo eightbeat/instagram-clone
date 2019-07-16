@@ -4,8 +4,12 @@
 #app/assets/stylesheets/application.cssは無視する
 *app/assets/stylesheets/application.css
 
+# bundler config.
+/.bundle
+
 # .scssは無視する
 *.scss
+
 
 # custom.scssは無視しない
 !custom.scss
