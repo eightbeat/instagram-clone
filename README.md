@@ -1,24 +1,15 @@
-# README
+・自分が苦労した点
+　OAuth 2.0 という認証方法の理解(未実装ですが、文章を読み動き自体は多少理解しても実装する工程などは難しいと思いました)
+　制作物のイメージ、自身が制作する際の実装順番(以前はmicropostなどから作ったりしてみましたが、user から作った方が流れが理解しやすいと思いました)
+　レイアウト(画像の大きさや写真を三分割にするレイアウトなど、綺麗に見せると言うのは自分が思っている以上に難しいと思いました)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+・学んだ点
+　今回は、検索機能を実装と言うことでransackを使い色々と試しては変えを繰り返しました。（　結局は実装はうまくできていませんが)
+　Ralis Tutorial の動画では、理解不足の部分は実際に手を動かすにあたり多対多など頭に入りました。
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+・自慢したい点・相談したい点
+　画像の三分割を上手くやるには、どうすれば良いか(col-md を使ったりとしましたが、上手くいかない)
+　画像の上手な整形の仕方(アップロード後、正方形にはできるのですが呼び出したりすると上手くできない)
+　deviceについて(今回の場合、deviceは先に導入していた方がよかったと思うのですが、後から使う場合カラムの重複の他　気をつけるべきところはありますか)
