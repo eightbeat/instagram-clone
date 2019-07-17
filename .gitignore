@@ -26,8 +26,7 @@
 # mailersフォルダを無視しない
 !mailers/
 
-#binフォルダは無視する
-/bin/
+
 
 #libフォルダは無視する
 /lib/
