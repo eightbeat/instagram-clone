@@ -10,9 +10,6 @@
 # custom.scssは無視しない
 !custom.scss
 
-# app/assets/javascripts/channelsは無視する
-*app/assets/javascripts/channels
-
 # controllersフォルダを無視しない
 !controllers/
 
