@@ -1,14 +1,10 @@
 # .coffeeは無視する
 *.coffee
 
-#app/assets/stylesheets/application.cssは無視する
-*app/assets/stylesheets/application.css
 
 # bundle/config.
 .bundle/config
 
-# .scssは無視する
-*.scss
 
 
 # custom.scssは無視しない
