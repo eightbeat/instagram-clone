@@ -7,6 +7,7 @@
 
 
 
+
 # custom.scssは無視しない
 !custom.scss
 
@@ -26,6 +27,8 @@
 
 #concernsフォルダは無視する
 *app/models/concerns/.keep
+
+*log/
 
 #temp/は無視する
 *tmp/
