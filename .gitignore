@@ -28,7 +28,7 @@
 #concernsフォルダは無視する
 *app/models/concerns/.keep
 
-*log/
+
 
 #temp/は無視する
 *tmp/
@@ -47,3 +47,6 @@
 
 #app/channelsは無視する
 *app/channels
+log/.keep
+log/development.log
+log/test.log
